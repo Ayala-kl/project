@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "main": "k.js",
+  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
@@ -9,7 +9,7 @@
     "type": "git",
     "url": "C:/אילה/Angular Project/.git/"
   },
-  "author": "",
+  "author": "Ayala",
   "license": "ISC",
   "description": ""
 }
